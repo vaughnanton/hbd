@@ -15,7 +15,7 @@ html, body {
   transition: all 3s;
 }
 
-.chocolate-screen {
+.party-screen {
   width: 100%;
   height: 100%;
   background: #000;
@@ -134,8 +134,8 @@ body {
   margin: -10px;
 }
 
-/*chocolate screen*/
-.chocolate-screen {
+/*party screen*/
+.party-screen {
   position: absolute;
   height:100vh;
   margin-top: 100vh;
@@ -143,9 +143,13 @@ body {
 }
 
 /*assets*/
-.chocolate-screen {
+.party-screen {
   background: #000;
   overflow: hidden;
+}
+
+.party-screen img {
+  width:100%;
 }
 
 /*viewing controls*/
