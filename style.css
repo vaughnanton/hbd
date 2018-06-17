@@ -168,9 +168,11 @@ input {
   position: relative;
   z-index: 5;
   cursor:pointer;
+}
+
+.move-down .move-me {
   animation: move 1s infinite ease-in-out;
   animation-delay: 5s;
-
 }
 
 .move-down:hover {
