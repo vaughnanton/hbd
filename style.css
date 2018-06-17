@@ -159,7 +159,7 @@ input {
 
 .move-down {
   display: block;
-  margin: 60px auto;
+  margin: 100px auto 0 auto;
   letter-spacing:5px;
   text-align: center;
   color: #fefae9;
@@ -169,6 +169,7 @@ input {
   z-index: 5;
   cursor:pointer;
   animation: move 1s infinite ease-in-out;
+  animation-delay: 5s;
 
 }
 
