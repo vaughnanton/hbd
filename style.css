@@ -158,6 +158,7 @@ input {
 }
 
 .move-down {
+  border:1px solid #fefae9;
   display: block;
   margin: 100px auto 0 auto;
   letter-spacing:5px;
